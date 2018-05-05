@@ -16,5 +16,7 @@ public class SparePartAksi {
         Idler.nama="Idler PC";
         Idler.PN="UTP2345";
         Idler.harga=2.500;
+        
+        Idler.cetakInfo();
     }
 }
