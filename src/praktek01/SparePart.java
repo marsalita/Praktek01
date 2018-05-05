@@ -10,5 +10,13 @@ package praktek01;
  * @author User
  */
 public class SparePart {
+    String nama;
+    String PN;
+    double harga;
     
+    void cetakInfo () {
+        System.out.println("Nama :"+nama);
+        System.out.println("PN   :"+PN);
+        System.out.println("Harga:"+harga);
+    }
 }
