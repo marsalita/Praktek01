@@ -11,6 +11,10 @@ package praktek01;
  */
 public class SparePartAksi {
     public static void main (String[] args) {
-        SparePart Idler = new SparePart();
+        SparePart Idler = new SparePart(); 
+        
+        Idler.nama="Idler PC";
+        Idler.PN="UTP2345";
+        Idler.harga=2.500;
     }
 }
