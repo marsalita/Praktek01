@@ -10,5 +10,7 @@ package praktek01;
  * @author User
  */
 public class SparePartAksi {
-    
+    public static void main (String[] args) {
+        SparePart Idler = new SparePart();
+    }
 }
